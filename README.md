@@ -53,7 +53,7 @@ High-signal source for understanding what actually works.
 **Why chosen:** Founder of PageOptimizer Pro. Runs controlled SEO experiments to test what AI content factors actually affect rankings.  
 Data-driven, not opinion-driven.
 
-- LinkedIn: inkedin.com/in/kyle-roof-seo/
+- LinkedIn: [linkedin.com/in/kyle-roof-seo/](https://linkedin.com/in/kyle-roof-seo/)
 - YouTube: [https://www.youtube.com/live/eWEx2lA6QOM?si=YdVDrp7RRXh4ZOgN](https://www.youtube.com/live/eWEx2lA6QOM?si=YdVDrp7RRXh4ZOgN)
 - Collected: 3 LinkedIn posts + YouTube transcript
 
