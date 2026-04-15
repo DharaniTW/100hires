@@ -1,0 +1,3 @@
+https://www.linkedin.com/posts/kevinindig_the-seo-assumption-that-comprehensive-content-share-7449386168133091328-LaK0?utm_source=share&utm_medium=member_desktop&rcm=ACoAADcOwdwBcnr-MR4Wwi3dTpaI1TK3HM1nsbk
+https://www.linkedin.com/posts/kevinindig_chatgpt-judges-a-page-by-its-cover-pages-share-7449385730704879616-3jpG?utm_source=share&utm_medium=member_desktop&rcm=ACoAADcOwdwBcnr-MR4Wwi3dTpaI1TK3HM1nsbk
+https://www.linkedin.com/posts/kevinindig_seo-budget-under-pressure-ugcPost-7448693178003619840-GTRl?utm_source=share&utm_medium=member_desktop&rcm=ACoAADcOwdwBcnr-MR4Wwi3dTpaI1TK3HM1nsbk

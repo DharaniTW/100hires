@@ -1,0 +1,3 @@
+https://www.linkedin.com/posts/neilkpatel_the-debate-over-paid-and-seo-is-silly-one-activity-7449939630076063744-J6Vu?utm_source=share&utm_medium=member_desktop&rcm=ACoAADcOwdwBcnr-MR4Wwi3dTpaI1TK3HM1nsbk
+https://www.linkedin.com/posts/neilkpatel_how-to-prove-your-marketing-is-working-so-activity-7449619042056802304-4dHb?utm_source=share&utm_medium=member_desktop&rcm=ACoAADcOwdwBcnr-MR4Wwi3dTpaI1TK3HM1nsbk
+https://www.linkedin.com/posts/neilkpatel_ai-is-causing-a-lot-more-conversions-than-share-7449577279321468928-T6tq?utm_source=share&utm_medium=member_desktop&rcm=ACoAADcOwdwBcnr-MR4Wwi3dTpaI1TK3HM1nsbk

@@ -1,0 +1,3 @@
+https://www.linkedin.com/posts/kyle-roof-seo_agencygrowth-seoagency-popwhiteglove-share-7430325675410157569-QGgw?utm_source=share&utm_medium=member_desktop&rcm=ACoAADcOwdwBcnr-MR4Wwi3dTpaI1TK3HM1nsbk
+https://www.linkedin.com/posts/kyle-roof-seo_seoagency-contentmarketing-popwhiteglove-share-7425252243404242944-1HVr?utm_source=share&utm_medium=member_desktop&rcm=ACoAADcOwdwBcnr-MR4Wwi3dTpaI1TK3HM1nsbk
+https://www.linkedin.com/posts/kyle-roof-seo_aicontent-seo-contentstrategy-ugcPost-7417642239205707776-iRqx?utm_source=share&utm_medium=member_desktop&rcm=ACoAADcOwdwBcnr-MR4Wwi3dTpaI1TK3HM1nsbk

@@ -1,0 +1,1 @@
+https://www.linkedin.com/posts/aleyda_the-fan-out-effect-what-happens-between-activity-7449820273513680896-Se54?utm_source=share&utm_medium=member_desktop&rcm=ACoAADcOwdwBcnr-MR4Wwi3dTpaI1TK3HM1nsbk

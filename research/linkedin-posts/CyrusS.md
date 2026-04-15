@@ -1,0 +1,3 @@
+https://www.linkedin.com/posts/cyrusshepard_after-a-long-day-of-seo-i-relax-by-reading-share-7449959826777899009-ZJh6?utm_source=share&utm_medium=member_desktop&rcm=ACoAADcOwdwBcnr-MR4Wwi3dTpaI1TK3HM1nsbk
+https://www.linkedin.com/posts/cyrusshepard_have-you-ever-noticed-your-google-rankings-ugcPost-7449871745773207552-FVcT?utm_source=share&utm_medium=member_desktop&rcm=ACoAADcOwdwBcnr-MR4Wwi3dTpaI1TK3HM1nsbk
+https://www.linkedin.com/posts/cyrusshepard_optimizing-for-google-click-signals-101-ugcPost-7449533607292985344-T618?utm_source=share&utm_medium=member_desktop&rcm=ACoAADcOwdwBcnr-MR4Wwi3dTpaI1TK3HM1nsbk
