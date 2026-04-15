@@ -28,7 +28,10 @@ All development tools are set up and ready for use.
 ### Why I Chose AI-Powered SEO Content Production
 
 AI is transforming how B2B SaaS companies create, optimize, and scale content.  
-I chose this topic because it sits at the intersection of two fast-moving fields AI and SEO.
+I chose this topic because it sits at the intersection of two fast-moving fields AI and SEO.  
+  
+Tools used:  
+Cursor IDE, Claude Code extension, Python, Github, Supabase API
 
 ## Expert 1 - Aleyda Solis
 
@@ -118,4 +121,6 @@ They publish cutting-edge research on AI content optimization directly from thei
 - LinkedIn: [https://www.linkedin.com/in/brendanhufford/](https://www.linkedin.com/in/brendanhufford/)
 - YouTube: [https://youtu.be/6ACNF0Dsqac](https://youtu.be/6ACNF0Dsqac)
 - Collected: 3 LinkedIn posts + YouTube transcript
+
+
 
