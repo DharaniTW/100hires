@@ -19,13 +19,9 @@ Across the 10 experts researched, there is strong consensus on one principle:
 
 This playbook takes clear positions on all three.
 
----
-
 ## 2. Step by step procedure for SEO‑First Content SOP 
 
 This SOP is designed for teams producing AI‑assisted SEO content in 2026. It focuses on **user‑centric topics, topical authority, and real‑world expertise**, not just rankings.
-
----
 
 ## Step 1 — Strategic content selection (user need + product)
 
@@ -41,8 +37,6 @@ If any answer is unclear, research first (GSC, user interviews) before drafting.
 **Source:**  
 https://www.shortform.com/summary/product-led-seo-summary-eli-schwartz
 
----
-
 ## Step 2 — Customer‑first topic and keyword research
 
 Start with **real‑world customer language**, then use tools to validate, not to invent ideas.
@@ -57,8 +51,6 @@ Then group topics into clusters (pillar + 4–8 supporting pages) for a topical 
 
 **Source:**  
 https://majestic.com/seo-in-2025/aleyda-solis
-
----
 
 ## Step 3 — Build a topical map, not just one page
 
@@ -77,8 +69,6 @@ This map becomes your content backlog and refresh roadmap.
 
 **Source:**  
 https://www.marketingspeak.com/a-new-era-in-seo-with-cyrus-shepard/
-
----
 
 ## Step 4 — AI‑assisted drafting with real‑world substance
 
@@ -100,8 +90,6 @@ AI is an assistant, not a full‑service writer; the **workflow** matters more t
 
 **Source:**  
 https://www.pageoptimizer.pro/blog-author-kyle-roof
-
----
 
 ## Step 5 — On‑page SEO, refreshes, and systems
 
@@ -128,7 +116,7 @@ Optimize, then build a system around **continuous refinement**, not “publish a
 **Source:**  
 https://www.seoforgooglenews.com/p/google-march-2024-core-update
 
-## 4. Where Experts Disagree
+## 3. Where Experts Disagree
 
 ### Disagreement 1 — Algorithmic On-Page Math vs. Human Expertise Signals
 
@@ -149,7 +137,7 @@ Cyrus Shepard, marketingspeak.com/a-new-era-in-seo-with-cyrus-shepard/,
 
 "I think Google pulled a big magic trick with us by calling it a helpful content update. I don’t think it had anything to do with content. When you look at the winning and losing sites, it has to do with the aggressiveness of SEO. It was really helpful content. I just call it an anti-SEO update because that seems to be what it was, which hurts me because I’m part of a group of people who taught folks for years how to do better in Google’s algorithm. And all of a sudden, boom, those tactics stop working like they used to. And it’s been a big readjustment for me." - shepard
 
-**My take: Side with Ray/Shepard—algorithmic exploits are short‑term
+**My take: Side with Ray/Shepard—algorithmic exploits are short‑term**
 
 Both layers are required, and skipping either is a mistake.**
 In low-competition niches, Roof's math is sufficient — you can win without
@@ -157,8 +145,6 @@ strong brand signals. In competitive spaces where top-ranking pages all have
 strong on-page signals, the differentiator shifts to E-E-A-T and user
 experience signals. Use POP to hit the baseline, then compete on expertise.
 These are sequential steps, not competing philosophies.
-
----
 
 ### Disagreement 2 — End-to-End AI Automation vs. Human-Guided Strategy
 
@@ -170,15 +156,12 @@ speed and system efficiency are the competitive advantage.
 linkedin.com/posts/mattdiggityseo_i-built-a-no-code-ai-seo-system-that-with-activity-7389287329569529856-JJcn)
 https://youtu.be/xG9Vu9yrQzw?si=N6UwlzdLciFvMicr
 
-
-
 **Aleyda Solis** argue human-guided strategy is
 non-negotiable. Solis warns against applying any framework without semantic
 intent alignment to each specific topic cluster — a form of lazy automation
 that produces technically complete but undifferentiated content.
 
-(Sources: Cyrus Shepard, marketingspeak.com, 25.02.2025; Aleyda Solis,
-advancedwebranking.com/blog/adapting-old-seo-rules-to-the-new-ai-search,
+(Sources:Aleyda Solis, advancedwebranking.com/blog/adapting-old-seo-rules-to-the-new-ai-search,
 13.07.2025)
 
 "What I do instead is take the information I obtain from those tools to identify patterns more easily, to prioritize what matters most in my own context—rather than starting the whole thing from scratch using an LLM." - aleyda
@@ -189,8 +172,6 @@ Diggity's system works for affiliate and e-commerce sites where content is
 largely informational and brand trust is a weaker buying signal. Automated content without editorial judgment is a brand liability.
 Use AI to scale drafting. Keep humans in control of what gets covered, how it
 is framed, and what goes live.
-
----
 
 ### Disagreement 3 — Keyword Research Tools vs. Customer Research as Starting Point
 
@@ -214,9 +195,7 @@ measurable search demand and how hard they are to rank for. Skipping the
 customer step produces generic keyword-matched content. Skipping the keyword
 step produces content nobody is searching for.
 
----
-
-## 5. What I Rejected and Why
+## 4. What I Rejected and Why
 
 ### Rejected Idea 1 — Fully Automated Publishing Pipelines
 
@@ -228,9 +207,6 @@ Lily Ray traces Google's March 2024 core update — which reduced "unhelpful con
 Automated pipelines cannot produce original data, first-hand experience, or genuine expertise. 
 
 (Source: Lily Ray, ipullrank.com/seo-week-2025-lily-ray, 25.08.2025)
-
-
----
 
 ### Rejected Idea 2 — SEO Measured Only by Rankings and Traffic
 
@@ -251,9 +227,7 @@ AI SEO program is creating business value or just filling a content calendar.
 Kevin Indig, LinkedIn, 27.06.2023,
 linkedin.com/posts/kevinindig_seo-content-growth-activity-7079930737474342912-c6RJ)
 
----
-
-## 6. My Original Ideas
+## 5. My Original Ideas
 
 ### Idea 1 — AI‑SEO Content‑Maturity Radar
 
@@ -298,9 +272,7 @@ Each piece gets a quick score (1–5) on these four points. If the average is be
    topical authority building assume the site already has some
    domain authority. New sites may need a different approach.
 
----
-
-## Who I Would NOT Recommend Following
+## 6. Who I Would NOT Recommend Following
 
 ### Neil Patel
 
@@ -324,5 +296,3 @@ B2B SaaS SEO specifically, for these reasons:
 **I still recommend consuming his content** for big-picture
 trends and marketing direction — but not as your primary
 tactical guide for B2B SaaS SEO.
-
----
